@@ -1,0 +1,54 @@
+header {
+    border: 12px ridge rgb(240, 253, 49);
+    padding: 10px;
+    text-align: center;
+    text-shadow: 2px 2px #ff0000;
+    text-decoration-line: underline;
+    color: rgb(80, 235, 80);
+}
+
+body {
+    background-image: url("backgroundimage3.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#name, #email, #phone, #addr{
+    background-color: rgba(155, 4, 4, 0.53);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+
+
+p {
+    font-size: xx-large;
+    text-shadow: 1px 2px lightcoral;
+    color: whitesmoke;
+    text-decoration: dotted;
+    text-decoration-color: limegreen;
+}
+
+.intro{
+    padding: 40px;
+    width: 1200px;
+    margin: auto;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+tr {
+    text-align: center;
+    color:rgb(163, 238, 248)
+}
+
+h1 {
+    font-size: 55px;
+}
+
